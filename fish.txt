@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-ปลาทูน่า Albacore
+Albacore
 ปลา Anglerfish
 ปลา Barracuda
 ปลา Bass
