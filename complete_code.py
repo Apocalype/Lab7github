@@ -1,7 +1,5 @@
 class Transportation(object):
-   self.start_place
-   self.stop_place
-   self.distance
+   """Abstract base class"""
 
    def __init__( self, start, end, distance ):
       if self.__class__ == Transportation:
