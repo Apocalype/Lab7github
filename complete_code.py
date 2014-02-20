@@ -46,4 +46,9 @@ trip = [ Walk("KMITL","KMITL SCB Bank",0.6),
 
 for travel in trip:
    travel_cost += travel.find_cost()
+<<<<<<< HEAD
 print( "Travel cost "+str(travel_cost) )
+=======
+print( travel_cost)
+print("HIIIII:D")
+>>>>>>> ceba647c273369d47bcb742692edb885a3cd3317
